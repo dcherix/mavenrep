@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.clarkparsia.pellet</groupId>
+  <artifactId>pellet-owlapiv3</artifactId>
+  <versioning>
+    <versions>
+      <version>2.3.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151112121654</lastUpdated>
+  </versioning>
+</metadata>
